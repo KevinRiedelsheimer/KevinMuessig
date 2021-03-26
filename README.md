@@ -1,9 +1,15 @@
 # Hi there 👋 👨🏻‍💻
 
 My name is Kevin and I'm currently working as a Developer Advocate in the [SAP Developer Advocacy](https://developers.sap.com/) team at SAP.
-I love connecting with interesting and cool people all around the world 🌎 to talk about Tech, Culture and whatever connects us!
+I love connecting with interesting and cool people all around the world 🌎 to talk about Tech, Culture and whatever is connecting us!
 
-Not only am I crazy passionate about coding but I also do a lot of different types of sports. I like being outdoors, being with people and I go crazy when it comes to music!
+Not only am I passionate about coding but also do a lot of different types of sports. Being outdoors, socializing and making music makes me smile and happy!
+
+My Hobbies are:
+- Rock Climbing 🧗🏻
+- Boxing 🥊
+- Golf 🏌🏻
+- Making Music 🎧
 
 ## Connect with me here
 
@@ -12,16 +18,6 @@ Not only am I crazy passionate about coding but I also do a lot of different typ
 - [LinkedIn](https://www.linkedin.com/in/kevinmuessig/)
 
 ## Who doesn't like content?
-
-<table><tr><td valign="top" width="50%">
-
-### On my blog
-
-<td valign="top" width="50%">
-
-### Videos and Live Streams
-
-</td></tr></table>
 
 ![README builder](https://github.com/KevinMuessig/KevinMuessig/workflows/README%20builder/badge.svg)
 
