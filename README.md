@@ -13,10 +13,4 @@ Not only am I crazy passionate about coding but I also do a lot of different typ
 
 **Who doesn't like content?:**
 
-|         |            | 
-| ------------- |:-------------:
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinMuessig&count_private=true&show_icons=true&theme=bear)](https://github.com/anuraghazra/github-readme-stats)      | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinMuessig)](https://github.com/anuraghazra/github-readme-stats) | 
-
-
-
-
+[![Kevin Muessig's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinMuessig&count_private=true&show_icons=true&theme=bear)](https://github.com/anuraghazra/github-readme-stats) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinMuessig)](https://github.com/anuraghazra/github-readme-stats) 
