@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 👨🏻‍💻
 
-<!--
-**KevinMuessig/KevinMuessig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Kevin and I'm currently working as a Developer Advocate in the [SAP Developer Advocacy](https://developers.sap.com/) team at SAP.
+I love connecting with interesting and cool people all around the world 🌎 to talk about Tech, Culture and whatever connects us!
 
-Here are some ideas to get you started:
+Not only am I crazy passionate about coding but I also do a lot of different types of sports. I like being outdoors, being with people and I go crazy when it comes to music!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Connect with me here:**
+
+- [SAP Community](https://people.sap.com/kevin.muessig) 
+- [Twitter](https://twitter.com/kevinmuessig)
+- [LinkedIn](https://www.linkedin.com/in/kevinmuessig/)
+
+**Who doesn't like content?:**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinMuessig&count_private=true&show_icons=true&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
