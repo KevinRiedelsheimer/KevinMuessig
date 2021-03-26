@@ -13,7 +13,7 @@ My Hobbies are:
 - Golf 🏌🏻
 - Making Music 🎧
 
-## Connect with me here
+## Connect with me here:
 
 - [SAP Community](https://people.sap.com/kevin.muessig) 
 - [Twitter](https://twitter.com/kevinmuessig)
