@@ -5,18 +5,23 @@ I love connecting with interesting and cool people all around the world 🌎 to 
 
 Not only am I crazy passionate about coding but I also do a lot of different types of sports. I like being outdoors, being with people and I go crazy when it comes to music!
 
-##Connect with me here
+## Connect with me here
 
 - [SAP Community](https://people.sap.com/kevin.muessig) 
 - [Twitter](https://twitter.com/kevinmuessig)
 - [LinkedIn](https://www.linkedin.com/in/kevinmuessig/)
 
-##Who doesn't like content?
+## Who doesn't like content?
+
+<table><tr><td valign="top" width="50%">
 
 ### On my blog
 
+<td valign="top" width="50%">
 
 ### Videos and Live Streams
+
+</td></tr></table>
 
 ![README builder](https://github.com/KevinMuessig/KevinMuessig/workflows/README%20builder/badge.svg)
 
