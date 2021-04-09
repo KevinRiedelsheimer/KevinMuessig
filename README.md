@@ -19,6 +19,8 @@ My Hobbies are:
 
 ## Who doesn't like content?
 
+<table><tr><td valign="top" width="50%">
+
 ![README builder](https://github.com/KevinMuessig/KevinMuessig/workflows/README%20builder/badge.svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
