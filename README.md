@@ -20,6 +20,16 @@ My Hobbies are:
 ## Who doesn't like content?
 
 <table><tr><td valign="top" width="50%">
+  
+ ### On my blog
+ - More on [My SAP Community Blog](https://people.sap.com/thomas.jung#content:blogposts)
+</td>
+
+<td valign="top" width="50%">
+  ### Videos and Live Streams
+  
+  - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
+</td></tr></table>
 
 ![README builder](https://github.com/KevinMuessig/KevinMuessig/workflows/README%20builder/badge.svg)
 
