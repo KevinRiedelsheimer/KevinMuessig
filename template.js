@@ -22,8 +22,8 @@ My Hobbies are:
 ## Who doesn't like content?
 
 <table><tr><td valign="top" width="50%">
- 
-## On my blog
+
+### On my blog
 {{#items}}- [{{{title}}}]({{{id}}}) 
 {{/items}} 
 - More on [My SAP Community Blog](https://people.sap.com/thomas.jung#content:blogposts)
@@ -31,7 +31,7 @@ My Hobbies are:
   
 <td valign="top" width="50%">
   
-## Videos and Live Streams
+### Videos and Live Streams
 {{#itemsNew}}- [{{{title}}}]({{{link}}}) ({{date}})
 {{/itemsNew}}
 - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
