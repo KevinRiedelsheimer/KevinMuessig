@@ -11,7 +11,6 @@ const Handlebars = require('handlebars')
 const source = require('./template')
 const template = Handlebars.compile(source)
 
-const URLYouTube = 'https://www.youtube.com/feeds/videos.xml?channel_id=UCmGdtTTsVzqTY88N1ncUE_g'
 const URLSAPDevs = 'https://www.youtube.com/feeds/videos.xml?channel_id=UCNfmelKDrvRmjYwSi9yvrMg'
 const URLSCN = 'https://content.services.sap.com/feed?type=blogpost&author=kevin.muessig'
 const main = async _ => {
