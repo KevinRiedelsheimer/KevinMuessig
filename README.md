@@ -26,6 +26,7 @@ My Hobbies are:
 </td>
 
 <td valign="top" width="50%">
+  
   ### Videos and Live Streams
   
   - More on [SAP Developers YouTube Channel](https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg)
